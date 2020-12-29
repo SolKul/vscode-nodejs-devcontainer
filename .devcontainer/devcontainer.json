@@ -1,0 +1,8 @@
+{
+    "name": "node-devcontainer-project",
+    "dockerComposeFile": [
+        "./docker-compose.yml"
+    ],
+    "service": "app",
+    "workspaceFolder": "/src"
+} 
